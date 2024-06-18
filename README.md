@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswin Sujith Varghese</h1>
 <h3 align="center">A passionate developer from India who is curious to know and learn about the emerging technologies.</h3>
 
-- 🔭 I’m currently working on [Covid-19 Data Analysis](https://github.com/aswinsujithvarghese365/Covid-19-Data-Analysis)
+- 🔭 I’m currently working on [Recylink](https://github.com/aswinsujithvarghese365/Recylink)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **aswinsujith@gmail.com**
 
